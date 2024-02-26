@@ -7,7 +7,7 @@
 
 ### :man_technologist: Обо мне:
 
-Я Frontend разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь начался совсем не  c Frontend разработкe, а с backend developer в мае 2023г, но мне показалось это весьма скучным и я решил себя попробовать в Frontend  разработке, вот и зацепило меня это направление. Так с июня 2023 начался мой путь в Web разработке...
+Я Frontend разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь начался совсем не  c Frontend разработки, а с backend в мае 2023г, но мне показалось это весьма скучным занятием и я решил попробовать себя во Frontend разработке. Так с июня 2023 начался мой путь в разработке...
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
