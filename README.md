@@ -7,7 +7,7 @@
 
 ### :man_technologist: Обо мне:
 
-Я Frontend разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь начался совсем не  c Frontend разработки, а с backend в мае 2023г, но мне показалось это весьма скучным занятием и я решил попробовать себя во Frontend разработке. Так с июня 2023 начался мой путь в разработке...
+Я Frontend разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">, но путь в разработке начался не с этого, а с backend разработки в мае 2023г, но мне показалось это весьма скучным занятием и я решил попробовать себя во Frontend разработке. Так с июня 2023 начался мой путь в этом направлении...
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
@@ -25,6 +25,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
   <img src="https://github.com/gulpjs/artwork/blob/master/gulp.svg" title="gulp" alt="gulp" width="40" height="40"/>&nbsp
+  <img src="https://rawgit.com/sass/sass-site/main/source/assets/img/logos/logo.svg" title="scss" alt="scss" width="40" height="40"/>&nbsp
 </div>
 
 ---
